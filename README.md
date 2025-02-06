@@ -40,7 +40,7 @@ cd task-management-api
 ```
 
 ### 2. Create a `.env` File
-Create a `.env` file in the root directory and configure the environment variables:
+Create a `.env` file in the root directory and configure the environment variables. Also populate the JWT_SECRET as well:
 
 ```env
 PORT=3000
